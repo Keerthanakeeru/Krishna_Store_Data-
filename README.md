@@ -1,4 +1,4 @@
-🛒 Vrindha Sales Dashboard – Excel Project
+🛒 Krishna Sales Dashboard – Excel Project
 Project Overview
 Developed an interactive Excel dashboard to analyze and visualize sales and inventory data for Vrindha Store. The dashboard empowers management to track sales trends, monitor inventory health, and make data-driven decisions.
 
